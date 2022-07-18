@@ -111,8 +111,7 @@ function Homepage() {
                                     </h2>
                                 </div>
                                 <p>
-                                    It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like
-                                </p>
+                                Wildlife is a precious gift from God for this planet. The term "fauna" is not only for wild animals but also for all non-domesticated life forms including birds, insects, plants, fungi and even microscopic organisms. To maintain a healthy ecological balance on this land, animals, plants and marine species are as important as humans. Every organism on this earth has a unique place in the food chain that contributes to the ecosystem in its own way. But, unfortunately today, many animals and birds are endangered. </p>
                                 <div className="btn-box">
                                     <a href="#" className="btn-1">
                                         Donate Now
@@ -155,8 +154,7 @@ function Homepage() {
                                     </h2>
                                 </div>
                                 <p>
-                                    It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like
-                                </p>
+                                Forests are a major, requisite front of action in the global fight against catastrophic climate change— thanks to their unparalleled capacity to absorb and store carbon.</p>
                                 <div className="btn-box">
                                     <a href="#" className="btn-1">
                                         Donate Now
@@ -184,8 +182,10 @@ function Homepage() {
                                     </h2>
                                 </div>
                                 <p>
-                                    It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like </p>
-                                <div className="btn-box">
+                                Sustainable forestry  the practice of regulating usage of forest resources in such a way that the forest wealth is preserved. Indiscriminate tree cutting is replaced by selective logging wherein you remove certain trees but preserve the balance of the woodland. Also young trees are allowed to mature before they are harvested, protected forests are created and trees are planted to expand forestlands. 
+                                A sustainable forest contains trees of all ages and different species. </p>
+
+<div className="btn-box">
                                     <a href="#" className="btn-2">
                                         Donate Now
                                     </a>
